@@ -1,4 +1,4 @@
-hackday
+Kurt Geiger Hackday 2013
 =======
 
-hackday
+A mini landing page for the hackday to inform participants and management of the events aims and logistics.
